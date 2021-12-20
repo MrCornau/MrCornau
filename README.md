@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrCornau
+- 👀 I’m interested in design, code and data
+- 🌱 I’m currently learning python
